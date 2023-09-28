@@ -1,2 +1,3 @@
 # pioner
-Версия без адаптива
+Версия без адаптива<br/>
+<a href="https://iwannabejutser.github.io/pioner/">ПРЕДПРОСМОТР</a>
